@@ -1,5 +1,6 @@
 ### 1. Download data
-You can download the data from this onedrive link into a folder named 'data' at the
+You can download the data ('train.csv' and 'test.csv') 
+from this onedrive link into a folder named 'data' at the
 same path of the python files.
 https://1drv.ms/f/s!Ah-O7_zjI-twasUflqjSTlDqVHY?e=ARbBaw
 
