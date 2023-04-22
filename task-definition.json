@@ -1,5 +1,5 @@
 {
-  "family": "task-1",
+  "family": "tf-task",
 
   "executionRoleArn": "arn:aws:iam::159677336069:role/ecsTaskExecutionRole",
   "networkMode": "awsvpc",
