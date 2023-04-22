@@ -9,7 +9,7 @@
       "image": "159677336069.dkr.ecr.ap-southeast-2.amazonaws.com/hello-repository:896ff76bf749",
       "portMappings": [
         {
-          "name" : "backend port"
+          "name" : "backend port",
           "containerPort": 80,
           "hostPort": 80,
           "protocol": "tcp",
